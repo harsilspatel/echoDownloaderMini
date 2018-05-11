@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "echo360 Downloader Mini",
+  "description": "A tiny downlaod manager for the Echo360 lectures",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "logo.png"
+//    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "*://echo360.org.au/*",
+    "downloads"
+  ]
+}

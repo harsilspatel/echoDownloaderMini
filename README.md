@@ -1,23 +1,22 @@
 # echoDownloaderMini
 A chrome extension to download echo360 lectures! 👨🏻‍💻🎞 
 
-## Installation
-### macOS
-1. Download the project as ZIP and extract it
-2. Go to Window > Extensions
-3. Turn on the Developer mode (top right corner)
-4. Select LOAD UNPACKED
-5. Navigate to the extracted directory and click Select
-6. You should see the extension icon next to the address bar 
-Voila! The extension is installed!
+## Installation 💻
+1. Open the Extension Management page by navigating to `chrome://extensions` (The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions)
+2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
+3. Click the LOAD UNPACKED button and select the extension directory.
 
-## Usage
+![alt text](https://developer.chrome.com/static/images/get_started/load_extension.png)
+
+source: https://developer.chrome.com/extensions/getstarted
+
+## Usage ⬇️
 1. Go to echo360.com.au
 2. Browse the lecture that you wish to download
 3. Click on the extension icon
 
 
-## To-dos
+## To-dos 📝
 - Download multiple lectures
 - Firefox extension
 - Option for SD
@@ -25,7 +24,7 @@ Voila! The extension is installed!
 
 <br/>
 
-#### Motivation
+#### Motivation 💡
 Week 10 just finished, gotta watch weeks of lectures and VLC interface >> echo360 ✌🏻 
 
 <br/>
